@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>agradecimento</title>
+</head>
+<style>
+    body{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        background-color: #282c34;
+        color: #fff;
+        font-family: Arial, sans-serif;
+        text-align: center;
+    }
+</style>
+<body>
+    <img src="imagens/fotoprofila.jpg" alt="logo"  style="border-radius: 50%; margin-bottom: 20px;">
+    <h2>Email enviado com sucesso! <br> Obrigado por sua mensagem! <br>❤️
+    </h2>
+</body>
+</html>
